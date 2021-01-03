@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/monched/static/css/main.f974ddb0.chunk.css",
+    "main.js": "/monched/static/js/main.fa68532b.chunk.js",
+    "main.js.map": "/monched/static/js/main.fa68532b.chunk.js.map",
+    "runtime-main.js": "/monched/static/js/runtime-main.c5d734fa.js",
+    "runtime-main.js.map": "/monched/static/js/runtime-main.c5d734fa.js.map",
+    "static/css/2.31461e4f.chunk.css": "/monched/static/css/2.31461e4f.chunk.css",
+    "static/js/2.28e5213d.chunk.js": "/monched/static/js/2.28e5213d.chunk.js",
+    "static/js/2.28e5213d.chunk.js.map": "/monched/static/js/2.28e5213d.chunk.js.map",
+    "static/js/3.16aa8439.chunk.js": "/monched/static/js/3.16aa8439.chunk.js",
+    "static/js/3.16aa8439.chunk.js.map": "/monched/static/js/3.16aa8439.chunk.js.map",
+    "index.html": "/monched/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/monched/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.f974ddb0.chunk.css.map": "/monched/static/css/main.f974ddb0.chunk.css.map",
+    "static/js/2.28e5213d.chunk.js.LICENSE.txt": "/monched/static/js/2.28e5213d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/monched/static/media/attack of the cucumbers.035b99d9.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5d734fa.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.28e5213d.chunk.js",
+    "static/css/main.f974ddb0.chunk.css",
+    "static/js/main.fa68532b.chunk.js"
+  ]
+}
